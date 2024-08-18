@@ -4,6 +4,10 @@ Because I keep getting asked about it, here are the instructions how I made my D
 
 > First of all: I never used a Mac longer than testing it. I just like the basic structure of the MacOS 'Desktop', but for me it 's not about getting exactly a MacOS Interface.
 
+## Final Result
+
+![desktop](./desktop.png)
+
 ## Installing Ulauncher
 
 ULauncher is an application launcher for Linux Systems which is very similar to the one from apple. I install it first on every system because it makes opening apps so much faster.  
@@ -73,6 +77,8 @@ After installing you can change your Background from the standard LM-Background 
 Just add the subfolder `Linux_Dynamic_Wallpapers/Dynamic_Wallpapers` to your Wallpapers. (Where the folder is located depends on where you installed `Linux_Dynamic_Wallpapers`) 
 
 ## Terminal
+
+![terminal](./terminal.png) 
 
 To change the look of my Terminal I use [Gogh](https://github.com/Gogh-Co/Gogh) . You can choose from many themes - I use _catppuccin Latte_ but there are so many - you'll find one you like. 
 
